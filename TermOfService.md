@@ -134,8 +134,8 @@ Continued usage of Panda Fun Bot means acceptance of updated terms.
 
 For questions regarding these Terms:
 
-Email: [Insert Email]
-Support Server: [Insert Link]
+
+Support Server:  https://discord.gg/JXdJ6PjXnf
 
 ---
 
